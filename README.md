@@ -19,6 +19,6 @@
 ✨ Always learning, experimenting, and chasing curiosity.
 
 📫 Let’s connect and grow together!
-- 💼 [LinkedIn](#www.linkedin.com/in/praneetbiswal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/praneetbiswal)
 - 🌐 [Portfolio/Website](https://praneetportfolios.netlify.app/) 
 
