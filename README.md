@@ -20,5 +20,5 @@
 
 📫 Let’s connect and grow together!
 - 💼 [LinkedIn](#www.linkedin.com/in/praneetbiswal)
-- 🌐 [Portfolio/Website](#https://praneetportfolios.netlify.app/) 
+- 🌐 [Portfolio/Website](https://praneetportfolios.netlify.app/) 
 
