@@ -22,5 +22,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/praneetbiswal)
 - 🌐 [Portfolio/Website](https://praneetportfolios.netlify.app/) 
 
+![](https://github-readme-stats.vercel.app/api?username=Praneetb2929&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Praneetb2929&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneetb2929&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
